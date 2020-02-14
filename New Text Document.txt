@@ -1,0 +1,6 @@
+scp (-r) link tiendat_datalake@10.0.8.30:/home/....
+
+ssh tiendat_datalake@10.0.8.30
+pw: CIST#2o!7
+python3 -m venv Social_recomendation
+source Social_recomendation/bin/activate
